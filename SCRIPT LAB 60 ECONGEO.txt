@@ -1,0 +1,92 @@
+#PLOT A HOOVER CURVE
+## generate vectors of industrial and population count
+
+# check the ind vector
+
+
+# check the pop vector
+
+
+
+
+## run the function (30% of the population produces 50% of the industrial output)
+
+
+# compute the corresponding Hoover Gini
+
+
+
+##COMPUTE THE GINI COEFFICIENT
+## generate vectors of industrial count
+
+## run the function
+
+## generate a region - industry matrix
+
+## run the function
+
+## run the function by aggregating all industries
+
+## run the function for industry #1 only (perfect equality)
+
+## run the function for industry #2 only (perfect equality)
+
+## run the function for industry #3 only (perfect unequality: max Gini = (5-1)/5)
+
+## run the function for industry #4 only (top 40% produces 100% of the output)
+
+
+#COMPUTE THE HOOVER GINI
+## generate vectors of industrial and population count
+
+## run the function (30% of the population produces 50% of the industrial output)
+
+## generate a region - industry matrix
+
+## run the function
+
+## run the function by aggregating all industries
+
+## run the function for industry #1 only
+
+## run the function for industry #2 only (perfectly proportional to population)
+
+## run the function for industry #3 only (30% of the pop. produces 100% of the output)
+
+## run the function for industry #4 only (55% of the pop. produces 100% of the output)
+
+
+
+#COMPUTE THE LOCATIONAL GINI COEFFICIENT FORM REGIONS-INDUSTRIES MATRICES
+## generate a region - industry matrix
+
+## run the function
+
+
+#PLOT A LOCATIONAL GINI CURVE FROM REGIONS-INDUSTRIES MATRICES
+## generate a region - industry matrix
+
+
+## run the function (shows industry #5)
+
+
+#PLOT A LORENZ CURVE FROM REGIONAL INDUSTRIAL COUNTS
+## generate vectors of industrial count
+
+## run the function
+
+## generate a region - industry matrix
+
+## run the function
+
+## run the function by aggregating all industries
+
+## run the function for industry #1 only (perfect equality)
+
+## run the function for industry #2 only (perfect equality)
+
+## run the function for industry #3 only (perfect unequality)
+
+## run the function for industry #4 only (top 40% produces 100% of the output)
+
+#Compare the distribution of the #industries
